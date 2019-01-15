@@ -21,6 +21,7 @@
                 {{ `${getTxt('txtResume')}: ` }}
                 <a href="https://moikrug.ru/rufus57" target="_blank">moikrug</a>
                 <a href="https://petrozavodsk.hh.ru/resume/cbace853ff007dc8370039ed1f736563726574" target="_blank">hh</a>
+                <a href="https://www.linkedin.com/in/evgeny-nizamov-274a50160" target="_blank">linkedin</a>
             </p>
             <v-chip v-for="tag in tags"
                     :key="tag"
