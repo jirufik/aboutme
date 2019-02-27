@@ -66,6 +66,19 @@
                 title: 'Your Logo',
                 posts: [
                     {
+                        txtHeadRu: `jrfjwt`,
+                        txtHeadEn: `jrfjwt`,
+                        txtDescriptionRu: `jrfjwt это async/await пакет для работы с JWT. Функционал использует одну из
+                        СУБД PostgreSQL или MongoDB. Работа с токенами ведется в разрезе Пользователь, Устройство.`,
+                        txtDescriptionEn: `jrfjwt is an async/await package for working with JWT. The functional uses
+                        one of PostgreSQL or MongoDB DBMS. Work with tokens is conducted in the context of User,
+                        Device.`,
+                        tags: ['JavaScript', 'NodeJS', 'NPM', 'Backend', 'JWT', 'MongoDB', 'PostgreSQL', 'MIT'],
+                        link: 'https://www.npmjs.com/package/jrfjwt',
+                        github: 'https://github.com/jirufik/jrfjwt',
+                        img: 'img/npm.png'
+                    },
+                    {
                         txtHeadRu: `aboutme`,
                         txtHeadEn: `aboutme`,
                         txtDescriptionRu: `Текущий раздел rufus.pro/jirufik обо мне и моих

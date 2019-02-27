@@ -86,7 +86,7 @@
                 tags: ['NodeJS', 'JavaScript', '1C', 'SQL', 'NoSQL', 'API', 'Web', 'Backend',
                     'Frontend', 'Vue', 'Vuex', 'Vue-router', 'Vuetify', 'Phaser', 'Websocket',
                     'Koa', 'Express', 'Webpack', 'HTML', 'CSS', 'MS SQL Server', 'MongoDB', 'Git', 'Inkscape',
-                    'Nginx', 'Arduino', 'ESP', 'Linux', 'Windows']
+                    'Nginx', 'PostgreSQL', 'Arduino', 'ESP', 'Linux', 'Windows']
             }
         },
         methods: {
