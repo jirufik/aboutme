@@ -66,6 +66,19 @@
                 title: 'Your Logo',
                 posts: [
                     {
+                        txtHeadRu: `jrflog`,
+                        txtHeadEn: `jrflog`,
+                        txtDescriptionRu: `jrflog это async/await пакет логирования. Логи можно выводить в stdout,
+                        хранить в файле, в MongoDB, или в PostgreSQL.`,
+                        txtDescriptionEn: `jrflog is an async / await logging package. Logs can be output to stdout,
+                        stored in file, MongoDB, or PostgreSQL.`,
+                        tags: ['JavaScript', 'NodeJS', 'NPM', 'Backend', 'Logs', 'MongoDB', 'PostgreSQL', 'File',
+                            'Stdout', 'Stream', 'MIT'],
+                        link: 'https://www.npmjs.com/package/jrflog',
+                        github: 'https://github.com/jirufik/jrflog',
+                        img: 'img/npm.png'
+                    },
+                    {
                         txtHeadRu: `jrfjwt`,
                         txtHeadEn: `jrfjwt`,
                         txtDescriptionRu: `jrfjwt это async/await пакет для работы с JWT. Функционал использует одну из
