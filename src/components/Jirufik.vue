@@ -2,7 +2,7 @@
     <v-container>
         <v-layout row wrap>
             <v-flex xs12 md4>
-                <div class="text-xs-center">
+                <div class="text-xs-center" style="position: sticky; top: 24px;">
                     <v-avatar size="125px">
                         <img
                                 class="img-circle elevation-7 mb-1"
