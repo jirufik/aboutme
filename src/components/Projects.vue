@@ -66,6 +66,31 @@
         title: 'Your Logo',
         posts: [
           {
+            txtHeadRu: `jrfws2`,
+            txtHeadEn: `jrfws2`,
+            txtDescriptionRu: `Пакет для создания API реального времени, на
+                        основе websockets. Является оберткой над легким и быстрым ws.
+                        Может работать самостоятельно или в связке с koa.`,
+            txtDescriptionEn: `Package for creating real-time api, based on
+                        websockets. Is a wrap over easy and fast ws. It can work
+                        independently or in conjunction with koa.`,
+            tags: ['JavaScript', 'NodeJS', 'NPM', 'API', 'Websocket', 'Koa',
+              'Server', 'Backend', 'Client', 'Frontend', 'MIT'],
+            link: 'https://www.npmjs.com/package/jrfws2',
+            github: 'https://github.com/jirufik/jrfws2',
+            img: 'img/jrfws.png'
+          },
+          {
+            txtHeadRu: `jrf-path-exists`,
+            txtHeadEn: `jrf-path-exists`,
+            txtDescriptionRu: `Получить значение объекта по пути. Если путь не существует, то будет возвращено значение undefined или значение по умолчанию.`,
+            txtDescriptionEn: `Get the value of an object along the path. If the path does not exist, then undefined or the default value will be returned.`,
+            tags: ['JavaScript', 'NPM', 'Backend', 'Frontend', 'MIT'],
+            link: 'https://www.npmjs.com/package/jrf-path-exists',
+            github: 'https://github.com/jirufik/pathExists',
+            img: 'img/npm.png'
+          },
+          {
             txtHeadRu: `fedrus`,
             txtHeadEn: `fedrus`,
             txtDescriptionRu: `API сервис для проверки человека в качестве должника`,
