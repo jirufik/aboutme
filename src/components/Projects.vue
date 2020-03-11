@@ -66,6 +66,36 @@
         title: 'Your Logo',
         posts: [
           {
+            txtHeadRu: `dmikClient`,
+            txtHeadEn: `dmikClient`,
+            txtDescriptionRu: `Сервис для проекта Афиша Костомукши. Frontend сервис.`,
+            txtDescriptionEn: `Service for the project Poster Kostomuksha. Frontend service.`,
+            tags: ['JavaScript', 'NodeJS', 'jrfws2', 'Frontend', 'MIT', 'Service', 'Express', 'Quasar', 'Vue'],
+            link: 'https://kostafisha.rufus.pro',
+            github: 'https://github.com/jirufik/dmikClient',
+            img: 'img/jirufik.png'
+          },
+          {
+            txtHeadRu: `dmikBackend`,
+            txtHeadEn: `dmikBackend`,
+            txtDescriptionRu: `Сервис для проекта Афиша Костомукши. API backend сервис.`,
+            txtDescriptionEn: `Service for the project Poster Kostomuksha. API backend service.`,
+            tags: ['JavaScript', 'NodeJS', 'jrfws2', 'Backend', 'MIT', 'Service', 'PostgreSQL', 'API'],
+            link: 'https://kostafisha.rufus.pro',
+            github: 'https://github.com/jirufik/dmikBackend',
+            img: 'img/jirufik.png'
+          },
+          {
+            txtHeadRu: `dmikParser`,
+            txtHeadEn: `dmikParser`,
+            txtDescriptionRu: `Сервис для проекта Афиша Костомукши. Парсит http://dmik.ru/`,
+            txtDescriptionEn: `Service for the project Poster Kostomuksha. Parser http://dmik.ru/`,
+            tags: ['JavaScript', 'NodeJS', 'Web parser', 'Backend', 'MIT', 'Service', 'Nightmare', 'PostgreSQL'],
+            link: 'https://kostafisha.rufus.pro',
+            github: 'https://github.com/jirufik/dmikParser',
+            img: 'img/jirufik.png'
+          },
+          {
             txtHeadRu: `jrfws2`,
             txtHeadEn: `jrfws2`,
             txtDescriptionRu: `Пакет для создания API реального времени, на

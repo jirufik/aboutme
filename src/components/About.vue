@@ -84,9 +84,10 @@
                 txtResumeRu: 'Резюме',
                 txtResumeEn: 'Resume',
                 tags: ['NodeJS', 'JavaScript', '1C', 'SQL', 'NoSQL', 'API', 'Web', 'Backend',
-                    'Frontend', 'Vue', 'Vuex', 'Vue-router', 'Vuetify', 'Phaser', 'Websocket',
-                    'Koa', 'Express', 'Webpack', 'HTML', 'CSS', 'MS SQL Server', 'MongoDB', 'Git', 'Inkscape',
-                    'Nginx', 'PostgreSQL', 'Arduino', 'ESP', 'Linux', 'Windows']
+                    'Frontend', 'Vue', 'Vuex', 'Vue-router', 'Vuetify', 'Quasar', 'Phaser', 'Websocket',
+                    'Koa', 'Express', 'Webpack', 'Nightmare', 'HTML', 'CSS', 'MS SQL Server',
+                    'MongoDB', 'Git', 'Inkscape', 'Nginx', 'PostgreSQL', 'Arduino', 'ESP',
+                    'Linux', 'Windows']
             }
         },
         methods: {
