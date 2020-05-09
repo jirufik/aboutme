@@ -66,6 +66,26 @@
         title: 'Your Logo',
         posts: [
           {
+            txtHeadRu: `jrf-pip`,
+            txtHeadEn: `jrf-pip`,
+            txtDescriptionRu: `Пакет для параллельной итерационной обработки больших массивов. Позволяющий выполнять параллельную обработку асинхронно, или асинхронно в синхронном стиле. Обработка реализована через Promise.all()`,
+            txtDescriptionEn: `This is a package for parallel iterative processing of large arrays. Allows parallel processing asynchronously, or asynchronously in synchronous style. Processing implemented through Promise.all()`,
+            tags: ['JavaScript', 'NPM', 'Backend', 'Frontend', 'MIT'],
+            link: 'https://www.npmjs.com/package/jrf-pip',
+            github: 'https://github.com/jirufik/jrf-pip',
+            img: 'img/npm.png'
+          },
+          {
+            txtHeadRu: `jrf-await-res`,
+            txtHeadEn: `jrf-await-res`,
+            txtDescriptionRu: `Выполнение асинхронного запроса с колбэком, к серверу socket.io, в синхронном стиле.`,
+            txtDescriptionEn: `Run an asynchronous request with a callback to the socket.io server in a synchronous style.`,
+            tags: ['JavaScript', 'Socket.io', 'NPM', 'Backend', 'Frontend', 'MIT'],
+            link: 'https://www.npmjs.com/package/jrf-await-res',
+            github: 'https://github.com/jirufik/jrfAwaitRes',
+            img: 'img/npm.png'
+          },
+          {
             txtHeadRu: `dmikClient`,
             txtHeadEn: `dmikClient`,
             txtDescriptionRu: `Сервис для проекта Афиша Костомукши. Frontend сервис.`,
