@@ -66,6 +66,36 @@
         title: 'Your Logo',
         posts: [
           {
+            txtHeadRu: `jrf-ws-3`,
+            txtHeadEn: `jrf-ws-3`,
+            txtDescriptionRu: `jrf-ws-3 - это JavaScript библиотека, для создания API реального времени , на основе WebSockets. Является оберткой над легким и быстрым ws. Поддерживается горизонтальное масштабирования серверной части.`,
+            txtDescriptionEn: `jrf-ws-3 - is a JavaScript library, to create a real time API , based on WebSockets. Is a wrapper over a light and fast. ws. The horizontal scaling of the server part is supported.`,
+            tags: ['JavaScript', 'NodeJS', 'NPM', 'API', 'Websocket', 'Server', 'Backend', 'Client', 'Horizontal scaling', 'Round-robin','Frontend', 'MIT'],
+            link: 'https://www.npmjs.com/package/jrf-ws-3',
+            github: 'https://github.com/jirufik/jrf-ws',
+            img: 'img/jrfws.png'
+          },
+          {
+            txtHeadRu: `Parser`,
+            txtHeadEn: `Parser`,
+            txtDescriptionRu: `Сервис для проекта Афиша Костомукши. Парсит https://vk.com/kostomukshadmik. Для логирования используется Graylog. Для NLP (Natural Language Processing) используется Dialogflow.`,
+            txtDescriptionEn: `Service for the project Poster Kostomuksha. Parses https://vk.com/kostomukshadmik. Graylog is used for logging. For NLP (Natural Language Processing) uses Dialogflow.`,
+            tags: ['JavaScript', 'NodeJS', 'Web parser', 'Backend', 'Graylog', 'Dialogflow', 'MIT', 'Service', 'Nightmare', 'PostgreSQL'],
+            link: 'https://kostafisha.rufus.pro',
+            github: 'https://github.com/jirufik/sredaOnlineParser',
+            img: 'img/jirufik.png'
+          },
+          {
+            txtHeadRu: `jrf-graylog`,
+            txtHeadEn: `jrf-graylog`,
+            txtDescriptionRu: `Клиент для отправки логов (GELF) в Graylog, по протоколу UDP`,
+            txtDescriptionEn: `Client to send logs (GELF) to Graylog, via UDP protocol`,
+            tags: ['JavaScript', 'NPM', 'Backend', 'Graylog', 'GELF', 'MIT'],
+            link: 'https://www.npmjs.com/package/jrf-graylog',
+            github: 'https://github.com/jirufik/jrf-graylog',
+            img: 'img/npm.png'
+          },
+          {
             txtHeadRu: `jrf-pip`,
             txtHeadEn: `jrf-pip`,
             txtDescriptionRu: `Пакет для параллельной итерационной обработки больших массивов. Позволяющий выполнять параллельную обработку асинхронно, или асинхронно в синхронном стиле. Обработка реализована через Promise.all()`,
